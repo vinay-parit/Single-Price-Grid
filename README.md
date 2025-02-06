@@ -1,4 +1,4 @@
-# Frontend Mentor - 
+# Frontend Mentor - Single-Price-Grid
 ## Welcome! 👋
 
 ### Links
